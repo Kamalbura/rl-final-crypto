@@ -1,0 +1,32 @@
+{
+  "validation_timestamp": "2025-09-04 05:22:54",
+  "total_states_tested": 30,
+  "q_learning": {
+    "accuracy_percentage": 96.66666666666667,
+    "correct_predictions": 29,
+    "total_predictions": 30,
+    "error_count": 1
+  },
+  "dqn": {
+    "accuracy_percentage": 96.66666666666667,
+    "correct_predictions": 29,
+    "total_predictions": 30,
+    "error_count": 1
+  },
+  "error_analysis": {
+    "q_learning": {
+      "CRITICAL": 1,
+      "LOW": 0,
+      "MEDIUM": 0,
+      "GOOD": 0,
+      "HIGH": 0
+    },
+    "dqn": {
+      "CRITICAL": 1,
+      "LOW": 0,
+      "MEDIUM": 0,
+      "GOOD": 0,
+      "HIGH": 0
+    }
+  }
+}
